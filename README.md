@@ -1,7 +1,8 @@
 ### Hi 👋, I'm Catrin
 
 🌱 I’m currently learning **Database and Git**
-📫 How to reach me **catrin.lam@outlook.com**
+
+📫 Reach me through **catrin.lam@outlook.com**
 
 ---
 
