@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Catrin</h1>
-- 🌱 I’m currently learning **Database and Git**
+Hi 👋, I'm Catrin
+
+🌱 I’m currently learning **Database and Git**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
