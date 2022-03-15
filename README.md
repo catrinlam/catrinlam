@@ -8,7 +8,7 @@
 
 Connect with me:
 <p align="left">
-<a href="https://www.youtube.com/c/fish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fish" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC2SuKB3xoHw7yToCeB6gbDw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fish" height="30" width="40" /></a>
 </p>
 
 Languages and Tools:
