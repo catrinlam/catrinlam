@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Catrin
 
-🌱 I’m currently learning **Database, Git, and Docker**
+🌱 I’m currently learning **Database and Git**
 
 📫 Reach me through **catrin.lam@outlook.com**
 
