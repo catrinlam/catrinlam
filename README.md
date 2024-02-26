@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Catrin
 
-🌱 I’m currently in my final year, have a look at my final year project **yourthoughts.me**
+🌱 I’m currently in my final year, have a look at my final year project <a href="https://yourthoughts.me/" target="_blank" rel="noreferrer">**yourthoughts.me**</a>
 
 📫 Reach me through **catrin.lam@outlook.com**
 
