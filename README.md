@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Catrin
 
-🌱 I’m currently learning **Database and Git**
+🌱 I’m currently in my final year, have a look at my final year project **yourthoughts.me**
 
 📫 Reach me through **catrin.lam@outlook.com**
 
