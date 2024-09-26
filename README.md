@@ -2,6 +2,8 @@
 
 🌱 I just graduated from my university, have a look at my final year project <a href="https://yourthoughts.me/" target="_blank" rel="noreferrer">**yourthoughts.me**</a>
 
+This is my website portfolio <a href="https://winter7eaf.github.io/" target="_blank" rel="noreferrer">**winter7eaf.github.io**</a>
+
 📫 Reach me through **catrin.lam@outlook.com**
 
 ---
