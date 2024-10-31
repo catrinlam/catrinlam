@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Catrin
 
-🌱 I just graduated from my university, have a look at my final year project <a href="https://yourthoughts.me/" target="_blank" rel="noreferrer">**yourthoughts.me**</a>
+🌱 I just graduated from my university, have a look at my final year project <a href="https://yourthoughts.catrin.is-a.dev/" target="_blank" rel="noreferrer">**yourthoughts.catrin.is-a.dev**</a>
 
 This is my website portfolio <a href="https://winter7eaf.github.io/" target="_blank" rel="noreferrer">**winter7eaf.github.io**</a>
 
